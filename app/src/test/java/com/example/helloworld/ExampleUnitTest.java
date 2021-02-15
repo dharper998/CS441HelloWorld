@@ -1,4 +1,4 @@
-package com.example.cs441helloworld;
+package com.example.helloworld;
 
 import org.junit.Test;
 
