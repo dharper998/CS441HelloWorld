@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
     <string name="button">Say Hello</string>
+    <string name="congrats">"Congrats, you actually just clicked that button 100 times! There's no prize, but you can show your friends how good you are at clicking buttons."</string>
 </resources>
